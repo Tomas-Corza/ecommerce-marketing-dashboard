@@ -1,0 +1,361 @@
+date,platform,campaign,spend,attributed_revenue,attributed_orders,attributed_new_customers
+2026-01-01,Google Ads,Brand Search,103.06,537.82,5,2
+2026-01-01,Google Ads,Shopping,169.8,502.85,4,1
+2026-01-01,Meta Ads,Prospecting,119.21,149.4,1,1
+2026-01-01,Meta Ads,Retargeting,82.05,310.79,3,1
+2026-01-02,Google Ads,Brand Search,121.43,692.4,6,2
+2026-01-02,Google Ads,Shopping,155.28,544.64,5,2
+2026-01-02,Meta Ads,Prospecting,117.27,243.72,2,1
+2026-01-02,Meta Ads,Retargeting,94.57,246.72,2,1
+2026-01-03,Google Ads,Brand Search,100.43,462.77,4,1
+2026-01-03,Google Ads,Shopping,178.36,521.67,5,2
+2026-01-03,Meta Ads,Prospecting,127.27,166.85,1,1
+2026-01-03,Meta Ads,Retargeting,96.21,312.56,3,1
+2026-01-04,Google Ads,Brand Search,120.34,677.99,6,2
+2026-01-04,Google Ads,Shopping,136.86,341.19,3,1
+2026-01-04,Meta Ads,Prospecting,116.84,235.39,2,1
+2026-01-04,Meta Ads,Retargeting,81.29,342.22,3,1
+2026-01-05,Google Ads,Brand Search,101.39,471.81,4,1
+2026-01-05,Google Ads,Shopping,181.95,499.2,4,1
+2026-01-05,Meta Ads,Prospecting,129.32,194.7,2,1
+2026-01-05,Meta Ads,Retargeting,92.3,248.44,2,1
+2026-01-06,Google Ads,Brand Search,97.77,481.82,4,1
+2026-01-06,Google Ads,Shopping,179.99,433.16,4,1
+2026-01-06,Meta Ads,Prospecting,128.2,279.41,2,1
+2026-01-06,Meta Ads,Retargeting,87.0,247.92,2,1
+2026-01-07,Google Ads,Brand Search,108.92,423.24,4,1
+2026-01-07,Google Ads,Shopping,166.39,510.98,5,2
+2026-01-07,Meta Ads,Prospecting,127.3,165.97,1,1
+2026-01-07,Meta Ads,Retargeting,97.41,400.54,4,1
+2026-01-08,Google Ads,Brand Search,106.8,547.4,5,2
+2026-01-08,Google Ads,Shopping,182.07,518.18,5,2
+2026-01-08,Meta Ads,Prospecting,130.61,186.83,2,1
+2026-01-08,Meta Ads,Retargeting,78.66,205.19,2,1
+2026-01-09,Google Ads,Brand Search,111.22,592.06,5,2
+2026-01-09,Google Ads,Shopping,180.17,577.17,5,2
+2026-01-09,Meta Ads,Prospecting,116.75,256.53,2,1
+2026-01-09,Meta Ads,Retargeting,74.62,286.28,3,1
+2026-01-10,Google Ads,Brand Search,95.98,324.4,3,1
+2026-01-10,Google Ads,Shopping,166.55,379.99,3,1
+2026-01-10,Meta Ads,Prospecting,136.31,204.94,2,1
+2026-01-10,Meta Ads,Retargeting,76.42,221.2,2,1
+2026-01-11,Google Ads,Brand Search,109.55,508.94,5,2
+2026-01-11,Google Ads,Shopping,160.75,419.72,4,1
+2026-01-11,Meta Ads,Prospecting,153.93,310.06,3,2
+2026-01-11,Meta Ads,Retargeting,78.09,229.59,2,1
+2026-01-12,Google Ads,Brand Search,118.07,552.96,5,2
+2026-01-12,Google Ads,Shopping,156.29,521.6,5,2
+2026-01-12,Meta Ads,Prospecting,128.06,234.67,2,1
+2026-01-12,Meta Ads,Retargeting,95.96,327.28,3,1
+2026-01-13,Google Ads,Brand Search,118.41,469.97,4,1
+2026-01-13,Google Ads,Shopping,153.06,435.95,4,1
+2026-01-13,Meta Ads,Prospecting,135.75,240.88,2,1
+2026-01-13,Meta Ads,Retargeting,77.15,266.16,2,1
+2026-01-14,Google Ads,Brand Search,108.2,488.14,4,1
+2026-01-14,Google Ads,Shopping,161.74,430.13,4,1
+2026-01-14,Meta Ads,Prospecting,115.24,173.04,2,1
+2026-01-14,Meta Ads,Retargeting,97.44,384.51,3,1
+2026-01-15,Google Ads,Brand Search,102.32,465.31,4,1
+2026-01-15,Google Ads,Shopping,169.57,328.06,3,1
+2026-01-15,Meta Ads,Prospecting,133.85,291.31,3,2
+2026-01-15,Meta Ads,Retargeting,87.86,375.72,3,1
+2026-01-16,Google Ads,Brand Search,94.36,433.94,4,1
+2026-01-16,Google Ads,Shopping,172.45,387.97,3,1
+2026-01-16,Meta Ads,Prospecting,141.05,298.75,3,2
+2026-01-16,Meta Ads,Retargeting,92.5,292.08,3,1
+2026-01-17,Google Ads,Brand Search,111.28,431.49,4,1
+2026-01-17,Google Ads,Shopping,152.67,423.03,4,1
+2026-01-17,Meta Ads,Prospecting,147.94,332.73,3,2
+2026-01-17,Meta Ads,Retargeting,82.59,192.0,2,1
+2026-01-18,Google Ads,Brand Search,120.91,391.81,3,1
+2026-01-18,Google Ads,Shopping,171.08,402.28,4,1
+2026-01-18,Meta Ads,Prospecting,127.78,201.38,2,1
+2026-01-18,Meta Ads,Retargeting,85.98,240.03,2,1
+2026-01-19,Google Ads,Brand Search,101.75,507.58,5,2
+2026-01-19,Google Ads,Shopping,150.9,334.17,3,1
+2026-01-19,Meta Ads,Prospecting,129.56,187.77,2,1
+2026-01-19,Meta Ads,Retargeting,97.35,376.62,3,1
+2026-01-20,Google Ads,Brand Search,110.93,465.77,4,1
+2026-01-20,Google Ads,Shopping,161.12,502.92,4,1
+2026-01-20,Meta Ads,Prospecting,120.99,219.26,2,1
+2026-01-20,Meta Ads,Retargeting,76.44,257.52,2,1
+2026-01-21,Google Ads,Brand Search,125.07,531.46,5,2
+2026-01-21,Google Ads,Shopping,165.6,358.22,3,1
+2026-01-21,Meta Ads,Prospecting,143.57,293.16,3,2
+2026-01-21,Meta Ads,Retargeting,83.14,245.01,2,1
+2026-01-22,Google Ads,Brand Search,103.03,392.03,4,1
+2026-01-22,Google Ads,Shopping,148.03,325.58,3,1
+2026-01-22,Meta Ads,Prospecting,115.03,155.7,1,1
+2026-01-22,Meta Ads,Retargeting,84.81,268.21,2,1
+2026-01-23,Google Ads,Brand Search,124.22,415.72,4,1
+2026-01-23,Google Ads,Shopping,152.31,476.28,4,1
+2026-01-23,Meta Ads,Prospecting,127.76,285.82,3,2
+2026-01-23,Meta Ads,Retargeting,91.21,266.37,2,1
+2026-01-24,Google Ads,Brand Search,98.24,337.07,3,1
+2026-01-24,Google Ads,Shopping,175.26,583.35,5,2
+2026-01-24,Meta Ads,Prospecting,141.23,287.76,3,2
+2026-01-24,Meta Ads,Retargeting,92.49,257.08,2,1
+2026-01-25,Google Ads,Brand Search,107.89,418.57,4,1
+2026-01-25,Google Ads,Shopping,139.78,355.77,3,1
+2026-01-25,Meta Ads,Prospecting,151.56,218.03,2,1
+2026-01-25,Meta Ads,Retargeting,80.3,191.09,2,1
+2026-01-26,Google Ads,Brand Search,109.74,471.07,4,1
+2026-01-26,Google Ads,Shopping,148.45,353.34,3,1
+2026-01-26,Meta Ads,Prospecting,150.92,333.95,3,2
+2026-01-26,Meta Ads,Retargeting,91.43,249.76,2,1
+2026-01-27,Google Ads,Brand Search,124.61,469.9,4,1
+2026-01-27,Google Ads,Shopping,166.4,416.86,4,1
+2026-01-27,Meta Ads,Prospecting,133.2,190.81,2,1
+2026-01-27,Meta Ads,Retargeting,90.65,349.77,3,1
+2026-01-28,Google Ads,Brand Search,114.83,402.42,4,1
+2026-01-28,Google Ads,Shopping,178.17,558.41,5,2
+2026-01-28,Meta Ads,Prospecting,123.97,204.17,2,1
+2026-01-28,Meta Ads,Retargeting,84.64,338.29,3,1
+2026-01-29,Google Ads,Brand Search,124.19,678.83,6,2
+2026-01-29,Google Ads,Shopping,159.65,424.12,4,1
+2026-01-29,Meta Ads,Prospecting,131.21,295.43,3,2
+2026-01-29,Meta Ads,Retargeting,84.53,355.86,3,1
+2026-01-30,Google Ads,Brand Search,100.06,384.51,3,1
+2026-01-30,Google Ads,Shopping,137.73,288.07,3,1
+2026-01-30,Meta Ads,Prospecting,132.61,174.64,2,1
+2026-01-30,Meta Ads,Retargeting,79.81,281.15,3,1
+2026-01-31,Google Ads,Brand Search,102.19,477.34,4,1
+2026-01-31,Google Ads,Shopping,173.29,336.25,3,1
+2026-01-31,Meta Ads,Prospecting,136.48,243.82,2,1
+2026-01-31,Meta Ads,Retargeting,95.67,354.37,3,1
+2026-02-01,Google Ads,Brand Search,124.9,652.26,6,2
+2026-02-01,Google Ads,Shopping,141.16,351.85,3,1
+2026-02-01,Meta Ads,Prospecting,134.14,210.7,2,1
+2026-02-01,Meta Ads,Retargeting,91.6,301.01,3,1
+2026-02-02,Google Ads,Brand Search,97.25,442.5,4,1
+2026-02-02,Google Ads,Shopping,143.15,359.21,3,1
+2026-02-02,Meta Ads,Prospecting,139.51,311.35,3,2
+2026-02-02,Meta Ads,Retargeting,73.29,226.15,2,1
+2026-02-03,Google Ads,Brand Search,100.0,533.38,5,2
+2026-02-03,Google Ads,Shopping,138.26,459.6,4,1
+2026-02-03,Meta Ads,Prospecting,125.61,285.24,3,2
+2026-02-03,Meta Ads,Retargeting,74.96,187.43,2,1
+2026-02-04,Google Ads,Brand Search,103.49,418.4,4,1
+2026-02-04,Google Ads,Shopping,136.8,278.17,2,1
+2026-02-04,Meta Ads,Prospecting,114.88,196.38,2,1
+2026-02-04,Meta Ads,Retargeting,94.59,319.05,3,1
+2026-02-05,Google Ads,Brand Search,122.23,415.76,4,1
+2026-02-05,Google Ads,Shopping,167.03,396.03,4,1
+2026-02-05,Meta Ads,Prospecting,152.38,302.65,3,2
+2026-02-05,Meta Ads,Retargeting,87.3,316.8,3,1
+2026-02-06,Google Ads,Brand Search,94.79,338.04,3,1
+2026-02-06,Google Ads,Shopping,180.53,508.52,5,2
+2026-02-06,Meta Ads,Prospecting,122.86,188.56,2,1
+2026-02-06,Meta Ads,Retargeting,82.95,205.63,2,1
+2026-02-07,Google Ads,Brand Search,110.48,471.44,4,1
+2026-02-07,Google Ads,Shopping,172.62,399.91,4,1
+2026-02-07,Meta Ads,Prospecting,124.4,217.91,2,1
+2026-02-07,Meta Ads,Retargeting,82.57,211.89,2,1
+2026-02-08,Google Ads,Brand Search,115.21,509.39,5,2
+2026-02-08,Google Ads,Shopping,173.94,388.21,3,1
+2026-02-08,Meta Ads,Prospecting,118.76,171.04,2,1
+2026-02-08,Meta Ads,Retargeting,85.78,233.51,2,1
+2026-02-09,Google Ads,Brand Search,100.07,348.15,3,1
+2026-02-09,Google Ads,Shopping,136.28,268.86,2,1
+2026-02-09,Meta Ads,Prospecting,125.34,247.25,2,1
+2026-02-09,Meta Ads,Retargeting,93.4,287.2,3,1
+2026-02-10,Google Ads,Brand Search,94.0,455.71,4,1
+2026-02-10,Google Ads,Shopping,183.91,444.07,4,1
+2026-02-10,Meta Ads,Prospecting,138.72,288.08,3,2
+2026-02-10,Meta Ads,Retargeting,89.24,236.66,2,1
+2026-02-11,Google Ads,Brand Search,113.26,609.28,5,2
+2026-02-11,Google Ads,Shopping,163.43,553.29,5,2
+2026-02-11,Meta Ads,Prospecting,119.23,149.04,1,1
+2026-02-11,Meta Ads,Retargeting,75.76,251.13,2,1
+2026-02-12,Google Ads,Brand Search,93.76,392.19,4,1
+2026-02-12,Google Ads,Shopping,167.55,424.95,4,1
+2026-02-12,Meta Ads,Prospecting,126.08,181.27,2,1
+2026-02-12,Meta Ads,Retargeting,90.42,317.46,3,1
+2026-02-13,Google Ads,Brand Search,125.25,631.2,6,2
+2026-02-13,Google Ads,Shopping,148.55,456.15,4,1
+2026-02-13,Meta Ads,Prospecting,132.86,175.25,2,1
+2026-02-13,Meta Ads,Retargeting,74.93,247.0,2,1
+2026-02-14,Google Ads,Brand Search,102.01,445.54,4,1
+2026-02-14,Google Ads,Shopping,160.41,305.24,3,1
+2026-02-14,Meta Ads,Prospecting,147.32,221.87,2,1
+2026-02-14,Meta Ads,Retargeting,76.37,254.22,2,1
+2026-02-15,Google Ads,Brand Search,94.83,389.44,3,1
+2026-02-15,Google Ads,Shopping,151.67,338.21,3,1
+2026-02-15,Meta Ads,Prospecting,121.84,257.37,2,1
+2026-02-15,Meta Ads,Retargeting,86.93,305.24,3,1
+2026-02-16,Google Ads,Brand Search,118.71,583.47,5,2
+2026-02-16,Google Ads,Shopping,155.72,378.87,3,1
+2026-02-16,Meta Ads,Prospecting,136.67,250.84,2,1
+2026-02-16,Meta Ads,Retargeting,93.74,227.07,2,1
+2026-02-17,Google Ads,Brand Search,112.64,471.23,4,1
+2026-02-17,Google Ads,Shopping,137.64,443.82,4,1
+2026-02-17,Meta Ads,Prospecting,122.32,192.69,2,1
+2026-02-17,Meta Ads,Retargeting,91.21,375.76,3,1
+2026-02-18,Google Ads,Brand Search,101.21,444.16,4,1
+2026-02-18,Google Ads,Shopping,175.74,516.97,5,2
+2026-02-18,Meta Ads,Prospecting,140.06,275.41,2,1
+2026-02-18,Meta Ads,Retargeting,77.76,266.9,2,1
+2026-02-19,Google Ads,Brand Search,111.46,541.42,5,2
+2026-02-19,Google Ads,Shopping,169.88,537.69,5,2
+2026-02-19,Meta Ads,Prospecting,145.03,197.95,2,1
+2026-02-19,Meta Ads,Retargeting,96.87,230.94,2,1
+2026-02-20,Google Ads,Brand Search,105.46,364.67,3,1
+2026-02-20,Google Ads,Shopping,146.14,505.11,5,2
+2026-02-20,Meta Ads,Prospecting,147.64,238.23,2,1
+2026-02-20,Meta Ads,Retargeting,84.85,296.55,3,1
+2026-02-21,Google Ads,Brand Search,121.4,697.23,6,2
+2026-02-21,Google Ads,Shopping,165.18,526.69,5,2
+2026-02-21,Meta Ads,Prospecting,131.7,269.98,2,1
+2026-02-21,Meta Ads,Retargeting,92.9,380.64,3,1
+2026-02-22,Google Ads,Brand Search,112.69,498.79,4,1
+2026-02-22,Google Ads,Shopping,164.37,452.33,4,1
+2026-02-22,Meta Ads,Prospecting,128.64,176.59,2,1
+2026-02-22,Meta Ads,Retargeting,80.44,310.09,3,1
+2026-02-23,Google Ads,Brand Search,102.2,446.79,4,1
+2026-02-23,Google Ads,Shopping,174.32,332.03,3,1
+2026-02-23,Meta Ads,Prospecting,145.93,241.08,2,1
+2026-02-23,Meta Ads,Retargeting,89.46,208.23,2,1
+2026-02-24,Google Ads,Brand Search,113.75,553.01,5,2
+2026-02-24,Google Ads,Shopping,153.36,353.91,3,1
+2026-02-24,Meta Ads,Prospecting,129.53,199.73,2,1
+2026-02-24,Meta Ads,Retargeting,78.06,218.55,2,1
+2026-02-25,Google Ads,Brand Search,106.5,607.08,5,2
+2026-02-25,Google Ads,Shopping,152.65,494.94,4,1
+2026-02-25,Meta Ads,Prospecting,147.72,297.75,3,2
+2026-02-25,Meta Ads,Retargeting,95.45,334.63,3,1
+2026-02-26,Google Ads,Brand Search,112.28,515.29,5,2
+2026-02-26,Google Ads,Shopping,138.87,320.34,3,1
+2026-02-26,Meta Ads,Prospecting,140.33,226.0,2,1
+2026-02-26,Meta Ads,Retargeting,90.15,339.15,3,1
+2026-02-27,Google Ads,Brand Search,123.94,495.75,4,1
+2026-02-27,Google Ads,Shopping,140.31,439.92,4,1
+2026-02-27,Meta Ads,Prospecting,129.63,185.93,2,1
+2026-02-27,Meta Ads,Retargeting,85.33,351.64,3,1
+2026-02-28,Google Ads,Brand Search,107.43,414.8,4,1
+2026-02-28,Google Ads,Shopping,182.24,605.22,5,2
+2026-02-28,Meta Ads,Prospecting,154.33,337.07,3,2
+2026-02-28,Meta Ads,Retargeting,79.39,283.27,3,1
+2026-03-01,Google Ads,Brand Search,100.68,359.32,3,1
+2026-03-01,Google Ads,Shopping,138.64,416.97,4,1
+2026-03-01,Meta Ads,Prospecting,121.5,259.11,2,1
+2026-03-01,Meta Ads,Retargeting,88.79,258.98,2,1
+2026-03-02,Google Ads,Brand Search,119.72,496.85,4,1
+2026-03-02,Google Ads,Shopping,179.56,482.6,4,1
+2026-03-02,Meta Ads,Prospecting,114.75,252.65,2,1
+2026-03-02,Meta Ads,Retargeting,97.45,312.34,3,1
+2026-03-03,Google Ads,Brand Search,118.43,530.36,5,2
+2026-03-03,Google Ads,Shopping,169.32,321.31,3,1
+2026-03-03,Meta Ads,Prospecting,131.3,188.03,2,1
+2026-03-03,Meta Ads,Retargeting,95.88,227.1,2,1
+2026-03-04,Google Ads,Brand Search,99.87,498.59,4,1
+2026-03-04,Google Ads,Shopping,173.81,496.2,4,1
+2026-03-04,Meta Ads,Prospecting,130.41,261.75,2,1
+2026-03-04,Meta Ads,Retargeting,75.29,213.84,2,1
+2026-03-05,Google Ads,Brand Search,98.0,449.92,4,1
+2026-03-05,Google Ads,Shopping,180.55,383.55,3,1
+2026-03-05,Meta Ads,Prospecting,135.55,293.22,3,2
+2026-03-05,Meta Ads,Retargeting,74.47,243.4,2,1
+2026-03-06,Google Ads,Brand Search,124.42,503.47,4,1
+2026-03-06,Google Ads,Shopping,145.7,396.52,4,1
+2026-03-06,Meta Ads,Prospecting,152.95,226.16,2,1
+2026-03-06,Meta Ads,Retargeting,79.2,243.66,2,1
+2026-03-07,Google Ads,Brand Search,106.75,492.66,4,1
+2026-03-07,Google Ads,Shopping,146.69,461.27,4,1
+2026-03-07,Meta Ads,Prospecting,122.65,218.25,2,1
+2026-03-07,Meta Ads,Retargeting,81.37,330.32,3,1
+2026-03-08,Google Ads,Brand Search,106.85,517.59,5,2
+2026-03-08,Google Ads,Shopping,143.74,280.72,3,1
+2026-03-08,Meta Ads,Prospecting,125.49,228.68,2,1
+2026-03-08,Meta Ads,Retargeting,81.03,213.34,2,1
+2026-03-09,Google Ads,Brand Search,101.64,373.14,3,1
+2026-03-09,Google Ads,Shopping,168.77,554.0,5,2
+2026-03-09,Meta Ads,Prospecting,119.73,211.53,2,1
+2026-03-09,Meta Ads,Retargeting,80.26,338.5,3,1
+2026-03-10,Google Ads,Brand Search,98.25,375.96,3,1
+2026-03-10,Google Ads,Shopping,181.04,443.25,4,1
+2026-03-10,Meta Ads,Prospecting,153.41,281.06,3,2
+2026-03-10,Meta Ads,Retargeting,88.32,364.84,3,1
+2026-03-11,Google Ads,Brand Search,105.07,398.64,4,1
+2026-03-11,Google Ads,Shopping,151.47,458.91,4,1
+2026-03-11,Meta Ads,Prospecting,132.22,169.67,2,1
+2026-03-11,Meta Ads,Retargeting,92.98,337.17,3,1
+2026-03-12,Google Ads,Brand Search,119.82,603.94,5,2
+2026-03-12,Google Ads,Shopping,163.79,469.39,4,1
+2026-03-12,Meta Ads,Prospecting,129.7,196.85,2,1
+2026-03-12,Meta Ads,Retargeting,73.1,231.79,2,1
+2026-03-13,Google Ads,Brand Search,123.67,497.94,4,1
+2026-03-13,Google Ads,Shopping,142.41,287.38,3,1
+2026-03-13,Meta Ads,Prospecting,140.31,283.95,3,2
+2026-03-13,Meta Ads,Retargeting,83.2,321.43,3,1
+2026-03-14,Google Ads,Brand Search,94.22,298.61,3,1
+2026-03-14,Google Ads,Shopping,178.59,378.84,3,1
+2026-03-14,Meta Ads,Prospecting,118.4,225.63,2,1
+2026-03-14,Meta Ads,Retargeting,80.61,272.4,2,1
+2026-03-15,Google Ads,Brand Search,124.98,452.59,4,1
+2026-03-15,Google Ads,Shopping,142.9,448.67,4,1
+2026-03-15,Meta Ads,Prospecting,145.28,256.25,2,1
+2026-03-15,Meta Ads,Retargeting,90.82,270.23,2,1
+2026-03-16,Google Ads,Brand Search,112.38,582.05,5,2
+2026-03-16,Google Ads,Shopping,174.82,517.98,5,2
+2026-03-16,Meta Ads,Prospecting,122.47,241.37,2,1
+2026-03-16,Meta Ads,Retargeting,78.55,202.54,2,1
+2026-03-17,Google Ads,Brand Search,115.9,608.84,5,2
+2026-03-17,Google Ads,Shopping,166.52,360.91,3,1
+2026-03-17,Meta Ads,Prospecting,141.21,273.82,2,1
+2026-03-17,Meta Ads,Retargeting,79.17,201.82,2,1
+2026-03-18,Google Ads,Brand Search,94.11,400.66,4,1
+2026-03-18,Google Ads,Shopping,174.05,569.85,5,2
+2026-03-18,Meta Ads,Prospecting,145.86,202.95,2,1
+2026-03-18,Meta Ads,Retargeting,81.22,196.64,2,1
+2026-03-19,Google Ads,Brand Search,125.6,484.09,4,1
+2026-03-19,Google Ads,Shopping,159.63,442.7,4,1
+2026-03-19,Meta Ads,Prospecting,135.85,268.17,2,1
+2026-03-19,Meta Ads,Retargeting,85.21,333.08,3,1
+2026-03-20,Google Ads,Brand Search,122.84,699.4,6,2
+2026-03-20,Google Ads,Shopping,167.35,430.87,4,1
+2026-03-20,Meta Ads,Prospecting,122.03,180.86,2,1
+2026-03-20,Meta Ads,Retargeting,84.91,323.82,3,1
+2026-03-21,Google Ads,Brand Search,111.5,404.51,4,1
+2026-03-21,Google Ads,Shopping,178.64,426.36,4,1
+2026-03-21,Meta Ads,Prospecting,119.32,260.73,2,1
+2026-03-21,Meta Ads,Retargeting,83.99,228.68,2,1
+2026-03-22,Google Ads,Brand Search,103.9,428.93,4,1
+2026-03-22,Google Ads,Shopping,177.36,520.95,5,2
+2026-03-22,Meta Ads,Prospecting,146.14,179.37,2,1
+2026-03-22,Meta Ads,Retargeting,94.19,401.97,4,1
+2026-03-23,Google Ads,Brand Search,101.81,573.7,5,2
+2026-03-23,Google Ads,Shopping,146.66,367.4,3,1
+2026-03-23,Meta Ads,Prospecting,127.62,176.1,2,1
+2026-03-23,Meta Ads,Retargeting,95.3,235.95,2,1
+2026-03-24,Google Ads,Brand Search,104.72,412.68,4,1
+2026-03-24,Google Ads,Shopping,164.74,559.93,5,2
+2026-03-24,Meta Ads,Prospecting,140.44,202.76,2,1
+2026-03-24,Meta Ads,Retargeting,87.98,321.31,3,1
+2026-03-25,Google Ads,Brand Search,108.72,633.39,6,2
+2026-03-25,Google Ads,Shopping,162.54,379.76,3,1
+2026-03-25,Meta Ads,Prospecting,143.75,314.96,3,2
+2026-03-25,Meta Ads,Retargeting,75.98,232.43,2,1
+2026-03-26,Google Ads,Brand Search,101.7,497.38,4,1
+2026-03-26,Google Ads,Shopping,167.23,470.56,4,1
+2026-03-26,Meta Ads,Prospecting,116.9,194.72,2,1
+2026-03-26,Meta Ads,Retargeting,95.43,271.8,2,1
+2026-03-27,Google Ads,Brand Search,101.11,374.72,3,1
+2026-03-27,Google Ads,Shopping,177.85,513.52,5,2
+2026-03-27,Meta Ads,Prospecting,148.23,246.95,2,1
+2026-03-27,Meta Ads,Retargeting,88.56,261.81,2,1
+2026-03-28,Google Ads,Brand Search,109.17,446.9,4,1
+2026-03-28,Google Ads,Shopping,144.31,344.32,3,1
+2026-03-28,Meta Ads,Prospecting,150.96,324.03,3,2
+2026-03-28,Meta Ads,Retargeting,94.38,258.88,2,1
+2026-03-29,Google Ads,Brand Search,106.36,555.55,5,2
+2026-03-29,Google Ads,Shopping,181.88,387.3,3,1
+2026-03-29,Meta Ads,Prospecting,135.23,236.07,2,1
+2026-03-29,Meta Ads,Retargeting,83.35,337.42,3,1
+2026-03-30,Google Ads,Brand Search,105.89,549.04,5,2
+2026-03-30,Google Ads,Shopping,173.18,443.65,4,1
+2026-03-30,Meta Ads,Prospecting,119.86,175.37,2,1
+2026-03-30,Meta Ads,Retargeting,96.24,290.21,3,1
+2026-03-31,Google Ads,Brand Search,102.5,506.4,5,2
+2026-03-31,Google Ads,Shopping,149.9,461.13,4,1
+2026-03-31,Meta Ads,Prospecting,143.14,323.37,3,2
+2026-03-31,Meta Ads,Retargeting,77.4,242.78,2,1
