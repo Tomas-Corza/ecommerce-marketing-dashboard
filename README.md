@@ -1,6 +1,22 @@
-# E-commerce Marketing Dashboard
+# E-commerce Marketing Analytics Dashboard
 
-**Prepared by Tomas Corza** · Python / Streamlit / pandas
+A Python and Streamlit dashboard designed to help e-commerce businesses understand advertising performance, customer acquisition, and revenue trends.
+
+## What This Project Does
+
+This project organizes marketing and sales data into interactive reports that make performance easier to evaluate.
+
+## Technologies
+
+- Python
+- Pandas
+- Streamlit
+
+## Developed by
+
+Tomas Corza — Growth Marketing & Analytics
+
+Website: https://tomascorza.me
 
 Interactive portfolio dashboard combining fictional Shopify-style store data with Google Ads and Meta Ads campaign reporting. This is a **demonstration project**, not an official Shopify, Google, or Meta integration. No production data, credentials, or employer information is included.
 
