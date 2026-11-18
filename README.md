@@ -97,3 +97,10 @@ The included data is entirely synthetic. Uploaded files are processed in the run
 This is a newly authored general-purpose demonstration dashboard inspired by common e-commerce marketing analysis workflows. All included records are fictional. Automated unit tests cover calculation functions; browser/deployment testing should be performed separately.
 
 Copyright © 2026 Tomas Corza. All rights reserved. No open-source license is granted.
+
+
+## Company-neutral demonstration and deployment
+
+The bundled `data/sample/` files are fictional inputs for portfolio demonstration, not merchant performance claims. To use the dashboard for another organization, provide independently authorized exports in the documented schema, validate aggregation and currency, and keep customer information out of public deployments. The existing calculations and demo datasets are unchanged by this documentation update.
+
+This project demonstrates general e-commerce analytics techniques; it is not an endorsement by or an integration with any particular merchant.
